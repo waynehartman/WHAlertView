@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationClasses</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Default</string>
+			<key>className</key>
+			<string>WHDefaultAnimator</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spin</string>
+			<key>className</key>
+			<string>WHSpinAlertViewAnimator</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Drop</string>
+			<key>className</key>
+			<string>WHDropAlertViewAnimator</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fly-In</string>
+			<key>className</key>
+			<string>WHFlyInAlertViewAnimator</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TweetBot</string>
+			<key>className</key>
+			<string>WHTweetBotAlertViewAnimator</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>Pinwheel</string>
+			<key>className</key>
+			<string>WHPinWheelAlertViewAnimator</string>
+		</dict>
+        <dict>
+			<key>name</key>
+			<string>🌈Sparkles!🌈</string>
+			<key>className</key>
+			<string>WHSparkleAlertViewAnimator</string>
+		</dict>
+	</array>
+	<key>customizationClasses</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Default Customizer</string>
+			<key>className</key>
+			<string>WHDefaultAlertViewCustomizer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TweetBot Customizer</string>
+			<key>className</key>
+			<string>WHTWeetBotCustomizer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flat</string>
+			<key>className</key>
+			<string>WHFlatCustomizer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
