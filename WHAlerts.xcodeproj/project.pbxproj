@@ -30,7 +30,6 @@
 		B049D7BB165D40A8008FD872 /* WHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B049D7B8165D40A8008FD872 /* WHAppDelegate.m */; };
 		B049D7BC165D40A8008FD872 /* WHViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B049D7BA165D40A8008FD872 /* WHViewController.m */; };
 		B049D7BE165D40C5008FD872 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B049D7BD165D40C5008FD872 /* InfoPlist.strings */; };
-		B049D7C1165D40D6008FD872 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B049D7BF165D40D6008FD872 /* MainStoryboard_iPad.storyboard */; };
 		B049D7C2165D40D6008FD872 /* MainStoryboard_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B049D7C0165D40D6008FD872 /* MainStoryboard_iPhone.storyboard */; };
 		B049D7C6165D44B1008FD872 /* WHAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = B049D7C5165D44B1008FD872 /* WHAlertView.m */; };
 		B049D7C9165D45A5008FD872 /* WHAlertButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B049D7C8165D45A5008FD872 /* WHAlertButtonItem.m */; };
@@ -90,7 +89,6 @@
 		B049D7B9165D40A8008FD872 /* WHViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WHViewController.h; sourceTree = "<group>"; };
 		B049D7BA165D40A8008FD872 /* WHViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WHViewController.m; sourceTree = "<group>"; };
 		B049D7BD165D40C5008FD872 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
-		B049D7BF165D40D6008FD872 /* MainStoryboard_iPad.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		B049D7C0165D40D6008FD872 /* MainStoryboard_iPhone.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		B049D7C4165D44B1008FD872 /* WHAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WHAlertView.h; sourceTree = "<group>"; };
 		B049D7C5165D44B1008FD872 /* WHAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WHAlertView.m; sourceTree = "<group>"; };
@@ -222,7 +220,6 @@
 				B0849551166088F400CAEE9E /* UI Customizers */,
 				B08495451660776300CAEE9E /* Color Chooser */,
 				B084954B1660777200CAEE9E /* Demo Datasources */,
-				B049D7BF165D40D6008FD872 /* MainStoryboard_iPad.storyboard */,
 				B049D7C0165D40D6008FD872 /* MainStoryboard_iPhone.storyboard */,
 				B049D7B7165D40A8008FD872 /* WHAppDelegate.h */,
 				B049D7B8165D40A8008FD872 /* WHAppDelegate.m */,
@@ -386,7 +383,6 @@
 				B049D7AC165D4074008FD872 /* Default.png in Resources */,
 				B049D7AD165D4074008FD872 /* Default@2x.png in Resources */,
 				B049D7BE165D40C5008FD872 /* InfoPlist.strings in Resources */,
-				B049D7C1165D40D6008FD872 /* MainStoryboard_iPad.storyboard in Resources */,
 				B049D7C2165D40D6008FD872 /* MainStoryboard_iPhone.storyboard in Resources */,
 				B0BF5FC7165ECE5E00E6960F /* defaultAlertButton@2x.png in Resources */,
 				B0BF5FC8165ECE5E00E6960F /* defaultAlertButtonPressed@2x.png in Resources */,

@@ -125,15 +125,6 @@ typedef enum {
     [alert show];
  }
 
-- (IBAction)showNormalAlert:(id)sender {
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Check It Out!"
-                                                    message:@"This custom alert view is almost ready for release!"
-                                                   delegate:nil
-                                          cancelButtonTitle:@"Cancel"
-                                          otherButtonTitles:@"OK", @"Maybe", nil];
-    [alert show];
-}
-
 
 - (IBAction)dataSourceDidChange:(id)sender {
     [self updateDataSourceAnimated:YES];
