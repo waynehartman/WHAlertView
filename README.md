@@ -105,16 +105,21 @@ Here's an example implementation of an animator:
     }
 
     @end
+    
+##Requirements
 
+- Tested on iOS 5+  
+- Uses ARC  
+- Uses modern Objective-C syntax, so you'll need Xcode 4.4+
 
-#Known Issues:
+##Known Issues
 
 - The `layoutSubviews` needs a little bit of cleanup
-- Accessory view is not yet implemented (but will be implemented when `layoutSubviews` is fixed.
-- Window rotation code needs some improvement
+- Accessory view is not yet implemented (but will be implemented when `layoutSubviews` is fixed
+- Window rotation code needs some refactoring
 
 
-#License
+##License
 
  Copyright (c) 2012, Wayne Hartman
  All rights reserved.
@@ -144,7 +149,7 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#Recognition
+##Recognition
 
 *Hat tip to [jivadevoe](https://github.com/jivadevoe) for inspiring a great blocks-based API for UIAlertView.
 
